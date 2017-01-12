@@ -1,0 +1,46 @@
+body{
+  font-family: "Helvetica Neue";
+}
+h1{
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+h2{
+  margin-top: 0;
+  color: red;
+  font-family: "Helvetica";
+  font-weight: 200;
+}
+h3{
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+#container{
+  width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 4px black solid;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.header img{
+  display: block;
+  width: 100%;
+}
+.description{
+  font-size: 24px;
+  font-weight: 200;
+}
+.sponsors{
+  font-size: 14px;
+}
+.sponsors img{
+  width: 150px;
+}
+.footer p{
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+.footer img{
+  width: 100%;
+}
